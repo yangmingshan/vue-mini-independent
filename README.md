@@ -4,6 +4,9 @@
 
 更多信息请访问官方文档：[vuemini.org](https://vuemini.org)
 
+## Overview
+A framework for building WeChat Mini Programs using Vue.js-like syntax and patterns.
+
 ## 依赖安装
 
 ```sh
